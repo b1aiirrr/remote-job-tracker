@@ -1,0 +1,62 @@
+{
+  "personal": {
+    "first_name": "Blair",
+    "last_name": "Momanyi",
+    "middle_name": "Momigi",
+    "full_name": "Blair Momanyi Momigi",
+    "email": "tonyblaiirr@gmail.com",
+    "phone": "+254704893919",
+    "phone_display": "+254 704 893 919",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "location_display": "Nairobi, Kenya",
+    "timezone": "Africa/Nairobi (UTC+3)",
+    "postal_code": "00100"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/blairmomigi",
+    "github": "https://github.com/b1aiirrr",
+    "portfolio": "https://blair-momigi.vercel.app",
+    "projects": {
+      "MigiArbitrage": "https://migiarbitrage.vercel.app",
+      "Snack Have Hun": "https://snackhavehun.dev",
+      "MigiTrader": "https://migitrader.vercel.app",
+      "Modkas Auto Garage": "https://modkasautogarage.vercel.app",
+      "Mama Oliech Restaurant": "https://mamaoliechrestaurant.vercel.app"
+    }
+  },
+  "work_preferences": {
+    "remote_only": true,
+    "willing_to_work_hours": "40-60+ hours per week (high availability)",
+    "employment_types": ["Full-time", "Contract", "Part-time", "Freelance", "Hourly"],
+    "notice_period": "Immediate (0 days)",
+    "start_date": "Immediately",
+    "work_authorization": "Authorized to work remotely worldwide as an independent contractor / B2B (W8-BEN compliant, no employer sponsorship required in US/UK/EU for remote contractor agreements)",
+    "languages": [
+      {"language": "English", "proficiency": "Fluent / Professional Working Proficiency"},
+      {"language": "Swahili", "proficiency": "Native"}
+    ]
+  },
+  "cv_paths": {
+    "frontend": "d:\\Remote Jobs CV\\Frontend Developer - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "backend": "d:\\Remote Jobs CV\\Backend Developer - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "fullstack": "d:\\Remote Jobs CV\\Full Stack Developer - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "junior": "d:\\Remote Jobs CV\\Junior Developer - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "ai_trainer": "d:\\Remote Jobs CV\\AI Trainer - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "app_tester": "d:\\Remote Jobs CV\\App Tester - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "technical_support": "d:\\Remote Jobs CV\\Technical Support - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "transcriptionist": "d:\\Remote Jobs CV\\Transcriptionist - CURRICULUM VITAE - MOMIGI BLAIR MOMANYI.pdf",
+    "comprehensive": "d:\\Remote Jobs CV\\COMPREHENSIVE CV-BLAIR MOMIGI MOMANYI.pdf"
+  },
+  "salary_benchmarks": {
+    "frontend": {"hourly_min": 28, "hourly_target": 35, "annual_min": 55000, "annual_target": 70000},
+    "backend": {"hourly_min": 32, "hourly_target": 40, "annual_min": 65000, "annual_target": 80000},
+    "fullstack": {"hourly_min": 32, "hourly_target": 38, "annual_min": 65000, "annual_target": 78000},
+    "junior": {"hourly_min": 20, "hourly_target": 25, "annual_min": 40000, "annual_target": 50000},
+    "ai_trainer": {"hourly_min": 22, "hourly_target": 30, "annual_min": 45000, "annual_target": 60000},
+    "app_tester": {"hourly_min": 22, "hourly_target": 28, "annual_min": 45000, "annual_target": 55000},
+    "technical_support": {"hourly_min": 20, "hourly_target": 25, "annual_min": 40000, "annual_target": 50000},
+    "transcriptionist": {"hourly_min": 18, "hourly_target": 22, "annual_min": 35000, "annual_target": 45000},
+    "default": {"hourly_min": 25, "hourly_target": 32, "annual_min": 50000, "annual_target": 65000}
+  }
+}
